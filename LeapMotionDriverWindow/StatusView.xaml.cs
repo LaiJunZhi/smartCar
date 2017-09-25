@@ -94,4 +94,8 @@ namespace LeapMotionDriverWindow
     }
 }
 //add code
+<<<<<<< HEAD
 //add code2
+=======
+//debug #21
+>>>>>>> iss#21
